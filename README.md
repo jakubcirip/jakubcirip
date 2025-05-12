@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there👋, I'm Jakub Cirip
 
-<!--
-**jakubcirip/jakubcirip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Focused on:
+-  **Linux Kernel Development** – writing and debugging kernel modules
+-  **C/C++ Systems Programming** – building low-level tools and utilities
+-  **Bash Scripting** – automating tasks and managing Linux systems
 
-Here are some ideas to get you started:
+ Based in Košice, Slovakia | Currently working at Deutsche Telekom - Kosice 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Contributions
+
+-  [hello_kernel_module](https://github.com/jakubcirip/hello_kernel_module) – basic "Hello World" Linux kernel module
+-  [syslogger](https://github.com/jakubcirip/syslogger) – lightweight C-based userspace system logger
+-  [initbox](https://github.com/jakubcirip/initbox) – an experiment in building a lightweight init shell
+
+##  Learning & Sharing
+
+  I regularly take notes and write technical guides on my blog: [jakubcirip.dev](https://jakubcirip.dev)
+
+##  Contact
+
+- GitHub: [@jakubcirip](https://github.com/jakubcirip)
+- LinkedIn: [linkedin.com/in/jakubcirip](https://linkedin.com/in/jakubcirip)
+- Email: jakub.cirip@gmail.com
+
+---
+
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Linux](https://img.shields.io/badge/Linux-Kernel-black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green)
+
+![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubcirip&show_icons=true&theme=radical)
