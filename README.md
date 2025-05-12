@@ -20,7 +20,7 @@
 ##  Contact
 
 - GitHub: [@jakubcirip](https://github.com/jakubcirip)
-- LinkedIn: [https://www.linkedin.com/feed/?trk=public_profile_not-found-log-in_google-one-tap-submit)
+- LinkedIn: [https://www.linkedin.com/in/jakub-cirip-530216309/)
 - Email: jakub.cirip@gmail.com
 
 ---
