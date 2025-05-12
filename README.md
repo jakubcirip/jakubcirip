@@ -15,7 +15,7 @@
 
 ##  Learning & Sharing
 
-  I regularly take notes and write technical guides on my blog: [jakubcirip.github.io](jakubcirip.github.io)
+  I regularly take notes and write technical guides on my blog: [jakubcirip.github.io)
 
 ##  Contact
 
