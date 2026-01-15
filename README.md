@@ -9,9 +9,11 @@
 
 ## Projects & Contributions
 
--  [hello_kernel_module](https://github.com/jakubcirip/hello_kernel_module) – basic "Hello World" Linux kernel module
--  [syslogger](https://github.com/jakubcirip/syslogger) – lightweight C-based userspace system logger
--  [initbox](https://github.com/jakubcirip/initbox) – an experiment in building a lightweight init shell
+-  [sudoku](https://github.com/jakubcirip/sudoku.git) - Sudoku game in C language
+-  [linux-c-projects](https://github.com/jakubcirip/linux-c-projects.git) - Some programs for Linux
+-  [math_game](https://github.com/jakubcirip/math_game.git) - Simple math game
+-  [Erasmus](https://github.com/jakubcirip/Erasmus.git) – Registration page for Erasmus students at TUKE
+-  [hello_kernel_module](https://github.com/jakubcirip/hello_kernel_module) – Basic "Hello World" Linux kernel module
 
 ##  Learning & Sharing
 
