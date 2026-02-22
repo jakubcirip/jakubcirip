@@ -22,7 +22,7 @@
 ##  Contact
 
 - GitHub: [@jakubcirip](https://github.com/jakubcirip)
-- LinkedIn: [https://www.linkedin.com/in/jakub-cirip-530216309/)
+- LinkedIn: [jakubcirip-LinkedIn](https://www.linkedin.com/in/jakub-cirip-530216309/)
 - Email: jakub.cirip@gmail.com
 
 ---
